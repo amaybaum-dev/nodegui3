@@ -35,7 +35,7 @@
     "dependencies": {
         "@nodegui/artifact-installer": "^1.1.0",
         "@nodegui/qode": "^18.12.1",
-        "cmake-js": "^6.2.1",
+        "cmake-js": "^7.0.0",
         "cross-env": "^7.0.3",
         "cuid": "^2.1.8",
         "manage-path": "^2.0.0",
